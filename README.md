@@ -7,10 +7,11 @@ The face detection model is trained on a dataset of 686 images with human faces.
 
 
 
-## Screenshots -
+## Samples -
+Outputs of detection performed on random images from google images -
+![Screenshot](screenshots/output1.PNG)
 
-![Screenshot](screenshots/output1.png)
-![Screenshot](screenshots/output2.png)
+![Screenshot](screenshots/output2.PNG)
 
 
 
