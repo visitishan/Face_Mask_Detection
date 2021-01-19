@@ -5,6 +5,15 @@ An ML based solution to detect and ensure if the people are wearing a face mask 
 
 The face detection model is trained on a dataset of 686 images with human faces. And the face mask detection model is trained on a dataset of 690 images of people wearing a mask.
 
+
+
+## Screenshots -
+
+![Screenshot](screenshots/output1.png)
+![Screenshot](screenshots/output2.png)
+
+
+
 ## How to install -
 
 1. Install Python 3.5 or newer.
@@ -32,6 +41,7 @@ python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1
 Great!! You are ready to use the code now.
 
 
+
 ## How to use -
 If you want to re-train the model from the images dataset or with your custom images, you can do it by running -
 ```
@@ -51,6 +61,6 @@ python detect_mask_video.py
 ```
 
 
-## Screenshots -
+## Live Webcam -
 Yet to be captured and updated 😉
 
